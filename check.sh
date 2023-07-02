@@ -16,7 +16,7 @@ function About() {
 	echo " ========================================================= "
 	echo " \                 Check.sh  Script                      / "
 	echo " \                 v1.0.0 (2023-03-19)                   / "
-	echo " \           https://github.com/zhuji9999/check          / "
+	echo " \           https://github.com/zjzjcp/check          / "
 	echo " ========================================================= "
 	echo ""
 	echo ""
